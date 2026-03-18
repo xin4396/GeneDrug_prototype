@@ -1,0 +1,2 @@
+PATH_PREFIX = "/ml_storage"
+CUDA_VISIBLE_DEVICES = "1"

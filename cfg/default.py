@@ -1,0 +1,2 @@
+PATH_PREFIX = "/mnt/zju109092201/ml_storage/ZMK"
+CUDA_VISIBLE_DEVICES = "0"
